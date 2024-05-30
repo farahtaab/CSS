@@ -1,0 +1,7 @@
+input:valid{
+    color: hsla(103, 100%, 57%, 0.599);
+}
+
+input:invalid{
+    color: red;
+}

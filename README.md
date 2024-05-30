@@ -1,15 +1,15 @@
 # CSS
 ## Actividades
 
-1.
+## Actividad 1
 
 [Enlace](index1.html)
 
-2.
+## Actividad 2
 
 ![Captura del juego finalizado](imagenes/joc.png)
 
-3.
+## Actividad 3
 
 Level 1: p{}
 Level 2: #me{}
@@ -18,9 +18,10 @@ Level 4: .lol.wut{}
 Lveel 5: p.meh{}
 Level 6: p, #bop{}
 
-4.
+## Actividad 4
 
 [Enlace](index2.html)
+
 ![ActSelectores](imagenes/selectores.png)
 
 1. *{}
@@ -41,7 +42,8 @@ Level 6: p, #bop{}
 16. h1 ~ *
 17. main > *
 
-5.
+
+## Actividad 5 
 
 1. ul > li:first-child
    

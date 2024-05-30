@@ -17,3 +17,8 @@ Level 3: .lol{}
 Level 4: .lol.wut{}
 Lveel 5: p.meh{}
 Level 6: p, #bop{}
+
+4.
+
+[Enlace](index2.html)
+![ActSelectores](imagenes/selectores.png)

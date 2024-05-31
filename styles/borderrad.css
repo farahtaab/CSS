@@ -10,9 +10,9 @@ div{
     text-align: center;
 }
 
-h1{
-    margin-bottom: 0px;
-    display: inline;
+span{
+    font-size: 25px;
+    font-weight: bold;
     background-color: rgb(102, 218, 218);
 }
 

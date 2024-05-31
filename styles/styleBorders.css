@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+div {
+    width: 300px;
+    padding: 40px;
+    border-top: 5px dotted rgb(9, 162, 37);
+    border-left: 5px double black;
+    border-bottom: 5px solid red;
+    border-right: 5px dashed blue;
+  }

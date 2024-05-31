@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(220, 196, 165);
+}
+
+h1{
+    color: red;
+    display: inline;
+}
+
+h1:hover{
+    color: initial;
+}
+
+p::selection{
+    background-color: red;
+    color: rgb(251, 251, 252);
+}
+
+p{
+    column-count: 3;
+    column-gap: 40px;
+    column-rule-style: inset;
+    column-rule-color: red;
+    column-rule-width: 2px;
+    text-align: justify;
+}

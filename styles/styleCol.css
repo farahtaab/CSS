@@ -4,10 +4,9 @@
 
 h1{
     color: red;
-    display: inline;
 }
 
-h1:hover{
+span:hover{
     color: initial;
 }
 
@@ -19,8 +18,6 @@ p::selection{
 p{
     column-count: 3;
     column-gap: 40px;
-    column-rule-style: inset;
-    column-rule-color: red;
-    column-rule-width: 2px;
+    column-rule: red solid 2px;
     text-align: justify;
 }

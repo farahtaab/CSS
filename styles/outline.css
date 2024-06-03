@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+div{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    outline: 15px dotted greenyellow;
+}
+
+div:hover{
+    outline: 7px dotted rgb(0, 0, 0);
+}
